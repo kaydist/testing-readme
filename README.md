@@ -33,22 +33,26 @@ To set these variables, create a `.env` file in the root of your project and add
 ```plaintext
 REACT_APP_BASE_URL=
 REACT_APP_IMAGE_BASE_URL=
+```
 
 ## Installation
 To install dependencies, run the following command:
 
 ```bash
 yarn install
+```
 
 ## Run the application
 To start the application, run the following command:
 
 ```bash
 yarn start
+```
 
 ## Run automated unit and integration tests
 To run all automated unit and integration tests, run the following command:
 
 ```bash
 yarn test
+```
 
