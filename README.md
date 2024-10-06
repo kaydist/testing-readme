@@ -7,7 +7,7 @@ This project implements a grid component that displays books a user might enjoy,
 - [Features](#features)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Running Tests](#running-tests)
+- [Running the automated tests](#run-automated-unit-and-integration-tests)
 - [Video Recording](#video-recording)
 - [Screenshots](#screenshots)
 
