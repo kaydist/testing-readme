@@ -2,7 +2,8 @@
 
 This project implements a grid component that displays books a user might enjoy, using React JS, SCSS Modules, and state management with Redux.
 
-[![Loom Video](https://cdn.loom.com/sessions/thumbnails/a0070a1aa8af448a9f1e8701ace9c90d-with-play-button.jpg)](https://www.loom.com/embed/a0070a1aa8af448a9f1e8701ace9c90d?sid=1fbc215c-4b28-4348-8761-c4470631edf6 "Loom Video")
+[Loom Video](https://www.loom.com/embed/a0070a1aa8af448a9f1e8701ace9c90d?sid=1fbc215c-4b28-4348-8761-c4470631edf6)
+
 
 
 ## Table of Contents
@@ -71,7 +72,7 @@ To run all automated unit and integration tests, run the following command:
 
 ```bash
 - email: test@email.com
-- password: password123
+- password: Password123#
 ```
 
 ## Run automated unit and integration tests
